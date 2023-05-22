@@ -1,0 +1,32 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:blue
+}
+h3{
+    color:rgb(163, 13, 156)
+}
+.External{
+    color:rgb(17, 16, 16);
+background-color: rgb(105, 82, 7);
+   
+}
+.external{
+    color: rgb(155, 209, 30);
+    background-color: rgb(7, 105, 73);
+}
+.External h3{
+    color:blueviolet
+}
+#change{
+    color:rgb(255, 0, 0)
+}
+.position{
+    margin-left: 50px;
+    margin-right: 20px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border: 2px solid red;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
